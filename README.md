@@ -57,7 +57,7 @@ Automation:    N8N · Make.com · Zapier · Webhook Pipelines
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [hassan-ai.vercel.app](https://hassan-ai.vercel.app)
+- 🌐 Portfolio: [hassan-ai.vercel.app]([https://hassan-ai.vercel.app](https://portfolio-iota-roan-6033tub653.vercel.app/))
 - 💼 LinkedIn: [linkedin.com/in/hassan-javed-116381247](https://linkedin.com/in/hassan-javed-116381247)
 - 📧 hj1888371@gmail.com
 
