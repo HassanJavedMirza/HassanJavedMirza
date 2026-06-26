@@ -1,7 +1,7 @@
 # Hey, I'm Hassan Javed
-(I used Claude for all this text generation cause offcourse no one wants to write alot !!!)
 
-**Full Stack AI Engineer** — I build production-grade AI voice agents and intelligent backend systems that actually get deployed and used.
+**Full Stack AI Engineer** 
+I build production-grade AI voice agents and intelligent backend systems that actually get deployed and used.
 
 ---
 
